@@ -1,0 +1,25 @@
+
+Q
+java:S3740:"/Provide the parametrized type for this generic.(Â·Õ›ûÿÿÿÿ8³ˆ·î°0
+K
+java:S3740;"/Provide the parametrized type for this generic.(æôìu8Ãˆ·î°0
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(®›8µá®î°0
+[
+java:S1854"9Remove this useless assignment to local variable "ghost".(Ú´äÌıÿÿÿÿ8¿á®î°0
+G
+java:S1481"*Remove this unused "ghost" local variable.(Óšˆï8Ïá®î°0
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡æ‘ëúÿÿÿÿ8ßá®î°0
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢Øü‹şÿÿÿÿ8àá®î°0
+{
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(ÒÆ„µúÿÿÿÿ8şˆ·î°0
+v
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(‘ğªò8àá®î°0
+{
+java:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í—É‹ıÿÿÿÿ8ïá®î°0
+v
+java:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìÜ—8ğá®î°0
+v
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷ßŒü8€‰·î°0
